@@ -1,5 +1,4 @@
 Flask
-hadolintw
 numpy
 pandas
 scikit-learn==0.20.2
